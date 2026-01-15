@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Shreya Patil 👋
 
-<!--
-**shreyapatil-dev/shreyapatil-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Developer | Backend & Database Enthusiast
 
-Here are some ideas to get you started:
+I am a Java developer with strong fundamentals in Core Java and Advanced Java, along with database development using Oracle SQL.  
+I enjoy building backend applications and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+- Java (core & Advance), C, C++
+- JDBC, Servlets
+- HTML, CSS
+- SQL (MYSQL/Oracle)
+
+---
+
+## 📂 Featured Projects
+
+🔹 ATM Machine System (Java)  
+Console-based ATM application  
+
+
+🔹 Online Electronic Store (Advanced Java, JSP, Oracle SQL)  
+Web-based electronic shopping application  
+
+
+🔹 Hotel Management System (C++)  
+Menu-driven console application  
+
+
+---
+
+## 📚 Currently Learning
+- Backend Development
+- Database Optimization
+- Software Development Best Practices
+
+---
+
+## 🎯 Career Goal
+To become a skilled Java Developer and work on enterprise-level applications.
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/shreyapatil-dev
+- LinkedIn: www.linkedin.com/in/shreyaaapatil
